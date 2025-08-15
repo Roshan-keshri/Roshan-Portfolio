@@ -25,7 +25,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 // Education Section Logo's
 import iiitlogo from './assets/education_logo/IIIT_R_Logo.png';
 import FRIlogo from './assets/education_logo/DeNobili_Logo.png';
-import Schoollogo from './assets/education_logo/Rajkamal_Logo.png';
+import Schoollogo from './assets/education_logo/Rajkamal_logo.png';
 
 // Project Section Logo's
 import Aihomepage from './assets/work_logo/homepage_ai.png';
